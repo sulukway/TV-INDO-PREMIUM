@@ -7,6 +7,10 @@ http://sg.ganteng.stream:8888/live/user449/u449/566.ts
 http://sg.ganteng.stream:8888/live/user449/u449/348.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro Arena HD" tvg-logo="https://4.bp.blogspot.com/-7EyhamiMlDM/WvB8VnqItfI/AAAAAAAAACA/ffNo8t-FCdEw1q_eMCWIomNs3Rqj0rmXgCLcBGAs/s1600/2017102016231498457.png" group-title="Sports",Astro Arena HD
 http://sg.ganteng.stream:8888/live/user449/u449/567.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="http://www.tvonline123.net/wp-content/uploads/2016/11/TV1-malaysia-online.jpg" group-title="Malaysia",TV1
+http://sg.ganteng.stream:8888/live/user449/u449/441.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="http://www.tvonline123.net/wp-content/uploads/2016/11/RTM-TV2-malaysia-online.jpg" group-title="Malaysia",TV2
+http://sg.ganteng.stream:8888/live/user449/u449/442.ts
 #EXTINF:-1 tvg-id="" tvg-name="Amarin TV HD (pildun)" tvg-logo="" group-title="Sports",Amarin TV
 http://sg.ganteng.stream:8888/live/user449/u449/604.ts
 #EXTINF:-1 tvg-id="" tvg-name="PPTV HD" tvg-logo="" group-title="Sports",PPTV HD
@@ -387,10 +391,6 @@ http://sg.ganteng.stream:8888/live/user449/u449/512.ts
 http://sg.ganteng.stream:8888/live/user449/u449/444.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://yt3.ggpht.com/a-/ACSszfGaxJCEzijSKkG4boFmoDJ2wXVfGnpG6euXag=s900-mo-c-c0xffffffff-rj-k-no" group-title="Malaysia",TV3
 http://sg.ganteng.stream:8888/live/user449/u449/443.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="http://www.tvonline123.net/wp-content/uploads/2016/11/RTM-TV2-malaysia-online.jpg" group-title="Malaysia",TV2
-http://sg.ganteng.stream:8888/live/user449/u449/442.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="http://www.tvonline123.net/wp-content/uploads/2016/11/TV1-malaysia-online.jpg" group-title="Malaysia",TV1
-http://sg.ganteng.stream:8888/live/user449/u449/441.ts
 #EXTINF:-1 tvg-id="" tvg-name="NTV7" tvg-logo="http://images.marketing-interactive.com.s3.amazonaws.com/wp-content/uploads/2018/01/ntv7-e1516336088340-700x418.png" group-title="Malaysia",NTV7
 http://sg.ganteng.stream:8888/live/user449/u449/440.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro Maya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Astro_maya_hd.png" group-title="Malaysia",Astro Maya
