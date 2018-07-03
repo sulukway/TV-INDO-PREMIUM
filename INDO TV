@@ -5,18 +5,18 @@ http://sg.ganteng.stream:8888/live/user449/u449/467.ts
 http://sg.ganteng.stream:8888/live/user449/u449/566.ts
 #EXTINF:-1 tvg-id="" tvg-name="Usee Sports Liga 1 Gojek" tvg-logo="http://images2.useetv.com/logo_useesports_big.png?v=1.0.0.0" group-title="Sports",Usee Sports Liga 1 Gojek
 http://sg.ganteng.stream:8888/live/user449/u449/348.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena HD" tvg-logo="https://4.bp.blogspot.com/-7EyhamiMlDM/WvB8VnqItfI/AAAAAAAAACA/ffNo8t-FCdEw1q_eMCWIomNs3Rqj0rmXgCLcBGAs/s1600/2017102016231498457.png" group-title="Sports",Astro Arena HD
+http://sg.ganteng.stream:8888/live/user449/u449/567.ts
 #EXTINF:-1 tvg-id="" tvg-name="Amarin TV HD (pildun)" tvg-logo="" group-title="Sports",Amarin TV
 http://sg.ganteng.stream:8888/live/user449/u449/604.ts
 #EXTINF:-1 tvg-id="" tvg-name="PPTV HD" tvg-logo="" group-title="Sports",PPTV HD
 http://sg.ganteng.stream:8888/live/user449/u449/605.ts
-#EXTINF:-1 tvg-id="" tvg-name="Astro Arena HD" tvg-logo="https://4.bp.blogspot.com/-7EyhamiMlDM/WvB8VnqItfI/AAAAAAAAACA/ffNo8t-FCdEw1q_eMCWIomNs3Rqj0rmXgCLcBGAs/s1600/2017102016231498457.png" group-title="Sports",Astro Arena HD
-http://sg.ganteng.stream:8888/live/user449/u449/567.ts
-#EXTINF:-1 tvg-id="" tvg-name="NET TV HD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV HD
-http://sg.ganteng.stream:8888/live/user449/u449/78.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" group-title="News",TVRI
-http://sg.ganteng.stream:8888/live/user449/u449/36.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVRI Sport HD" tvg-logo="https://pbs.twimg.com/profile_images/883888961269055488/3XoDJtju_400x400.jpg" group-title="Sports",TVRI Sport HD
 http://sg.ganteng.stream:8888/live/user449/u449/565.ts
+#EXTINF:-1 tvg-id="" tvg-name="NET TV HD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV HD
+http://sg.ganteng.stream:8888/live/user449/u449/78.ts
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV
+http://sg.ganteng.stream:8888/live/user449/u449/24.ts
 #EXTINF:-1 tvg-id="" tvg-name="Trans TV HD" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Lokal",Trans TV HD
 http://sg.ganteng.stream:8888/live/user449/u449/86.ts
 #EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Lokal",Trans TV
@@ -25,14 +25,12 @@ http://sg.ganteng.stream:8888/live/user449/u449/34.ts
 http://sg.ganteng.stream:8888/live/user449/u449/92.ts
 #EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Lokal",Trans 7
 http://sg.ganteng.stream:8888/live/user449/u449/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" group-title="News",TVRI
+http://sg.ganteng.stream:8888/live/user449/u449/36.ts
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="Lokal",SCTV
 http://sg.ganteng.stream:8888/live/user449/u449/32.ts
-#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV
-http://sg.ganteng.stream:8888/live/user449/u449/24.ts
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="Lokal",Indosiar
 http://sg.ganteng.stream:8888/live/user449/u449/33.ts
-#EXTINF:-1 tvg-id="" tvg-name="Usee Sports Liga 1 Gojek" tvg-logo="http://images2.useetv.com/logo_useesports_big.png?v=1.0.0.0" group-title="Sports",Usee Sports Liga 1 Gojek
-http://sg.ganteng.stream:8888/live/user449/u449/348.ts
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="Lokal",ANTV
 http://sg.ganteng.stream:8888/live/user449/u449/31.ts
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="Lokal",MNC TV
